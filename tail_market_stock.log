@@ -11551,3 +11551,5 @@
 2025-05-14 14:39:30,371 - matplotlib.font_manager - WARNING - findfont: Font family 'SimHei' not found.
 2025-05-14 15:02:03,103 - StockDataFetcher - INFO - 初始化数据获取器，使用sina数据源
 2025-05-14 17:16:25,466 - StockDataFetcher - INFO - 初始化数据获取器，使用sina数据源
+2025-05-14 23:45:43,281 - StockDataFetcher - INFO - 初始化数据获取器，使用sina数据源
+2025-05-15 00:14:56,003 - StockDataFetcher - INFO - 初始化数据获取器，使用sina数据源
